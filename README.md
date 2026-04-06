@@ -206,7 +206,6 @@ prediction = detect_triggerword("audio.wav")
 chime_on_activate("audio.wav", prediction, threshold=0.5)
 ```
 
-```markdown id="readme_results"
 # 📊 Results & Observations
 
 ## Performance
@@ -297,4 +296,3 @@ Understanding this pipeline provides a strong foundation in:
 - Deep Learning
 - Audio Processing
 - Sequence Modeling
-```
